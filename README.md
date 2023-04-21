@@ -1,1 +1,1 @@
-# Concentrating-Solar-
+# Concentrating-Solar-Optimizer
