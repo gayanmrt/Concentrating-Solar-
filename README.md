@@ -1,1 +1,2 @@
 # Concentrating-Solar-Optimizer
+This is an optimization tool for Solar Linear Fresnel Reflector (LFR) systems. It integrates ray tracing and thermal simulations to optimize the design of LFR configurations for various geographical locations. Please refer to the Readme.txt file for installation instructions( on MATLAB platform ) and usage guidelines. For more technical details about the tool and its applications, visit: https://www.sciencedirect.com/science/article/pii/S0360544224018140.
